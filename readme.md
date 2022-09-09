@@ -1,3 +1,3 @@
 # Hardware & Software
 
-* [Electronics & Soldering]()
+* [Electronics & Soldering](/electronics-soldering)
