@@ -6,6 +6,7 @@
 * [Antistatic PU Glove](https://amzn.to/3BpORl5)
 * [Grounding Building Block + Cuff ](https://amzn.to/3xb6OkF)
 * [Helping hands](https://amzn.to/3Rz95yg)
+* [Automatic Wire Stripper and Cutting Pliers](https://amzn.to/3U5STqd)
 
 
 # For my reorders / multiuse
