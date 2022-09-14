@@ -7,6 +7,7 @@
 * [Grounding Building Block + Cuff ](https://amzn.to/3xb6OkF)
 * [Helping hands](https://amzn.to/3Rz95yg)
 * [Automatic Wire Stripper and Cutting Pliers](https://amzn.to/3U5STqd)
+* [SN-28B Ratchet Crimper & Dupont Connector Set](https://amzn.to/3eQeZwL)
 
 
 # For my reorders / multiuse
