@@ -1,3 +1,5 @@
+Links below are mostly affiliate links so I may or may not get some small commission on purhaces, if I do, I will be using those towards projects/content that which I will be sharing online.
+
 # Tools that I use
 
 * [Ryobi R18SOI-0 Cordless Soldering Iron 18V](https://amzn.to/3TZD9Vm)
