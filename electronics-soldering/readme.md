@@ -17,3 +17,9 @@ Links below are mostly affiliate links so I may or may not get some small commis
 * [Dupont Connectors](https://amzn.to/3QpQ7c8)
 * [Dupont Connector Pins](https://amzn.to/3qGGR9g)
 * [M3 Hex Socket Screw Set (4mm, 6mm, 8mm, 10mm, 12mm, incl. flat head & countersunk - 720pcs)](https://amzn.to/3SkD90v)
+
+
+# Components
+* [ESP32 DevkKit v1 - pack of 3](https://www.amazon.de/gp/product/B08CCYWZN3/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+* [AHT21 - Temperature & Humidity sensor](https://amzn.to/3DICemR)
+* [A4988 Stepper Motor Driver](https://amzn.to/3DLr4xk)
