@@ -1,3 +1,5 @@
+Links below are mostly affiliate links so I may or may not get some small commission on purhaces, if I do, I will be using those towards projects/content that which I will be sharing online.
+
 # 3D Printing
 
 * [Creality Ender 5 Pro 3D Printer](https://amzn.to/3RSfc0A)
