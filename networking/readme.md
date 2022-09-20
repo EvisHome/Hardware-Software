@@ -27,3 +27,6 @@
 ## Rack Enclosures
 * [4U Inter-Tech 4U-4408](https://amzn.to/3f2n15A)
 * [2U FANTEC SRC-2080X07](https://amzn.to/3xATINU)
+
+
+<p float="left"> <img src="IMG_20220603_004538.jpg" width="49.5%" />  </p>
