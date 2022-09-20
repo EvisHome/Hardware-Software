@@ -1,4 +1,4 @@
-# Networking
+# Networking & Rack
 
 ## Tools
 
@@ -14,3 +14,7 @@
 * UniFi6 Long-Range
 * UniFi6 Lite
 * Unifi Access Point FlexHD
+
+## Rack
+* (1U sliding rails)[https://amzn.to/3UAGsD5]
+* (1U Rack Shelf)[https://amzn.to/3LqaTHL]
