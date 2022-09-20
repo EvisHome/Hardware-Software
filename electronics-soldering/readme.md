@@ -21,5 +21,10 @@ Links below are mostly affiliate links so I may or may not get some small commis
 
 # Components
 * [ESP32 DevkKit v1 - pack of 3](https://www.amazon.de/gp/product/B08CCYWZN3/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+* [ESP8266 NodeMCU](https://amzn.to/3SgxVmx)
+* [D1 Mini NodeMCU ESP8266](https://amzn.to/3LuxhQ4)
 * [AHT21 - Temperature & Humidity sensor](https://amzn.to/3DICemR)
 * [A4988 Stepper Motor Driver](https://amzn.to/3DLr4xk)
+* [DRV8825 Stepper Motor Driver](https://amzn.to/3xxcplJ)
+* [28BYJ 48 ULN2003 5 V Stepper Motor](https://amzn.to/3dmJCcR)
+* [TB6600 Stepper Motor Driver](https://amzn.to/3qRMFwM)
