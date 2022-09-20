@@ -20,3 +20,6 @@
 * [1U Rack Shelf](https://amzn.to/3LqaTHL)
 * [10U Rack Rails](https://amzn.to/3SkEPaj)
 * [5U Rack Rails](https://amzn.to/3RZCX7o)
+* [1U Mesh Vented Blank Plate](https://amzn.to/3LqpenF)
+* [2U Mesh Vented Blank Plate](https://amzn.to/3BqQSwd)
+* [1U Blank Plate](https://amzn.to/3R0JZY2)
