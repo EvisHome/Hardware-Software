@@ -16,3 +16,4 @@ Links below are mostly affiliate links so I may or may not get some small commis
 * [Multicoloured Wires with Dupont connectors](https://amzn.to/3xagBYa)
 * [Dupont Connectors](https://amzn.to/3QpQ7c8)
 * [Dupont Connector Pins](https://amzn.to/3qGGR9g)
+* [M3 Hex Socket Screw Set (4mm, 6mm, 8mm, 10mm, 12mm, incl. flat head & countersunk - 720pcs)](https://amzn.to/3SkD90v)
