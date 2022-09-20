@@ -16,5 +16,7 @@
 * Unifi Access Point FlexHD
 
 ## Rack
-* (1U sliding rails)[https://amzn.to/3UAGsD5]
-* (1U Rack Shelf)[https://amzn.to/3LqaTHL]
+* [1U sliding rails](https://amzn.to/3UAGsD5)
+* [1U Rack Shelf](https://amzn.to/3LqaTHL)
+* [10U Rack Rails](https://amzn.to/3SkEPaj)
+* [5U Rack Rails](https://amzn.to/3RZCX7o)
